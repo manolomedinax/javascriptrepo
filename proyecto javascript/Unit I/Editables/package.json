@@ -1,0 +1,12 @@
+{
+    "name": "editables",
+    "version": "1.0.0",
+    "description": "",
+    "main": "declaracionDeVariables.js",
+    "scripts": {
+
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module"
+}
